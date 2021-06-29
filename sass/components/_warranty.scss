@@ -1,0 +1,20 @@
+.warranty {
+    display: flex;
+    justify-content: space-between;
+    &-advantage {
+        max-width: 270px;
+        letter-spacing: 0.04em;
+        margin: 0;
+    }
+    &-icons {
+        background: #F5F4FA;
+        text-align: center;
+        padding:25px 0 25px 0;
+        border-radius: 4px;
+        margin-bottom: 30px;
+    }
+}
+
+.icons-diagram {
+    padding:33.2px 0 33.11px 0;
+}

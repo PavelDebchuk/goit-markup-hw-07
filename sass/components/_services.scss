@@ -1,0 +1,22 @@
+.services {
+    padding-top:0;
+    &-img {
+        display: flex;
+        justify-content: space-between;
+    }
+    &-item {
+        position: relative;
+    }
+    &-text {
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        padding: 27px 0;
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: 0.03em;
+        color:#ffffff;
+        font-size: 14px;
+        background: rgba(47, 48, 58, 0.8);
+    }
+}
