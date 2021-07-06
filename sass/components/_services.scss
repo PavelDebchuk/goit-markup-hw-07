@@ -1,13 +1,13 @@
 .services {
     padding-top:0;
-    &-img {
+    .services__list {
         display: flex;
         justify-content: space-between;
     }
-    &-item {
+    .services__item {
         position: relative;
     }
-    &-text {
+    .services__text {
         position: absolute;
         bottom: 0;
         width: 100%;

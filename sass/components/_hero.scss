@@ -11,7 +11,7 @@
     background-repeat: no-repeat;
     text-align: center;
     padding: 200px 0;
-    &-title {
+    .hero__title {
         font-weight: 900;
         text-transform: uppercase;
         color:var(--color-white);
@@ -19,7 +19,7 @@
         margin-bottom: 30px;
         line-height: 60px;
     }
-    &-modal {
+    .hero__modal {
         background: #2196F3;
         color: var(--color-white);
         font-weight: 700;
